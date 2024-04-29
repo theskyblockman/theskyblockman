@@ -26,8 +26,3 @@ I made/contribued to some projects but here are the current state of my "real" r
 - Design (see my profile picture or [this original version](https://github.com/theskyblockman/theskyblockman/blob/main/Profile%20Picture.png))
 - Basketball
 - Chess
-
-# Support me
-You can buy me a coffee so that I can work more on my projects.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6N222N)
