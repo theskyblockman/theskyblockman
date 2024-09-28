@@ -18,7 +18,7 @@ I can write code in about 15 languages, but I am mainly good at writing in those
 
 # Projects
 I made/contribued to some projects but here are the current state of my "real" repositories: (updated on the 22 of April 2023)
-- [Life Chest](https://github.com/theskyblockman/life-chest) 100% finished? Something big is coming.
+- [Life Chest](https://github.com/theskyblockman/life-chest) 100% finished.
 - [Instructer](https://github.com/theskyblockman/Instructer) 100% finished.
 
 # Specialties
